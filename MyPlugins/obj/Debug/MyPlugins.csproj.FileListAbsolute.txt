@@ -1,0 +1,9 @@
+C:\Users\gasha\Desktop\TrainingCenter\SharePoint\CRM Plugin\MyCRM\MyPlugins\obj\Debug\MyPlugins.csproj.CoreCompileInputs.cache
+C:\Users\gasha\Desktop\TrainingCenter\SharePoint\CRM Plugin\MyCRM\MyPlugins\bin\Debug\MyPlugins.dll
+C:\Users\gasha\Desktop\TrainingCenter\SharePoint\CRM Plugin\MyCRM\MyPlugins\bin\Debug\MyPlugins.pdb
+C:\Users\gasha\Desktop\TrainingCenter\SharePoint\CRM Plugin\MyCRM\MyPlugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\gasha\Desktop\TrainingCenter\SharePoint\CRM Plugin\MyCRM\MyPlugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\gasha\Desktop\TrainingCenter\SharePoint\CRM Plugin\MyCRM\MyPlugins\obj\Debug\MyPlugins.csproj.CopyComplete
+C:\Users\gasha\Desktop\TrainingCenter\SharePoint\CRM Plugin\MyCRM\MyPlugins\obj\Debug\MyPlugins.dll
+C:\Users\gasha\Desktop\TrainingCenter\SharePoint\CRM Plugin\MyCRM\MyPlugins\obj\Debug\MyPlugins.pdb
+C:\Users\gasha\Desktop\TrainingCenter\SharePoint\CRM Plugin\MyCRM\MyPlugins\obj\Debug\MyPlugins.csproj.AssemblyReference.cache

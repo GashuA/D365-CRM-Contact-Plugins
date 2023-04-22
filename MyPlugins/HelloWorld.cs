@@ -40,7 +40,7 @@ namespace MyPlugins
                     string lastName = entity.Attributes["lastname"].ToString();
 
                     //assign data to attribute
-                    entity.Attributes.Add("description", "Hello World" + firstName + lastName);
+                    entity.Attributes.Add("description", " Hello World" + " "+ firstName + " " + lastName);
                 }
 
                 catch (FaultException<OrganizationServiceFault> ex)
